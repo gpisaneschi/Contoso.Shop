@@ -16,6 +16,7 @@ namespace Contoso.Shop.Web
             this.logger = logger;
         }
 
+
         public int Salvar(string ccnumber, string cvv)
         {
             logger.LogInformation($"Cartao cadastrado. {ccnumber}:{cvv}");
