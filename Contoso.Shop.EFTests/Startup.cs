@@ -10,6 +10,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Contoso.Shop.EFTests.Shop;
+using Contoso.Shop.EFTests.Services;
 
 namespace Contoso.Shop.EFTests
 {
@@ -42,6 +43,7 @@ namespace Contoso.Shop.EFTests
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
             services.AddMvc();
+            services.AddSingleton<IProdutoService, ProdutoService>();
 
         }
 
