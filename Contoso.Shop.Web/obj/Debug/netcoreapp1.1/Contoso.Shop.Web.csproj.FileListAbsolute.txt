@@ -1,0 +1,11 @@
+C:\dev\Contoso.Shop\Contoso.Shop.Web\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.x86.dll
+C:\dev\Contoso.Shop\Contoso.Shop.Web\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.amd64.dll
+C:\dev\Contoso.Shop\Contoso.Shop.Web\bin\Debug\netcoreapp1.1\Contoso.Shop.Web.deps.json
+C:\dev\Contoso.Shop\Contoso.Shop.Web\bin\Debug\netcoreapp1.1\Contoso.Shop.Web.runtimeconfig.json
+C:\dev\Contoso.Shop\Contoso.Shop.Web\bin\Debug\netcoreapp1.1\Contoso.Shop.Web.runtimeconfig.dev.json
+C:\dev\Contoso.Shop\Contoso.Shop.Web\bin\Debug\netcoreapp1.1\Contoso.Shop.Web.dll
+C:\dev\Contoso.Shop\Contoso.Shop.Web\bin\Debug\netcoreapp1.1\Contoso.Shop.Web.pdb
+C:\dev\Contoso.Shop\Contoso.Shop.Web\obj\Debug\netcoreapp1.1\Contoso.Shop.Web.csprojResolveAssemblyReference.cache
+C:\dev\Contoso.Shop\Contoso.Shop.Web\obj\Debug\netcoreapp1.1\Contoso.Shop.Web.AssemblyInfo.cs
+C:\dev\Contoso.Shop\Contoso.Shop.Web\obj\Debug\netcoreapp1.1\Contoso.Shop.Web.dll
+C:\dev\Contoso.Shop\Contoso.Shop.Web\obj\Debug\netcoreapp1.1\Contoso.Shop.Web.pdb

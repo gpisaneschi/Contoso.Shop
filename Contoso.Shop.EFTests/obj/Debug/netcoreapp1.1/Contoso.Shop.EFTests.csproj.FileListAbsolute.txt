@@ -1,0 +1,12 @@
+C:\dev\Contoso.Shop\Contoso.Shop.EFTests\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.x86.dll
+C:\dev\Contoso.Shop\Contoso.Shop.EFTests\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.amd64.dll
+C:\dev\Contoso.Shop\Contoso.Shop.EFTests\bin\Debug\netcoreapp1.1\Contoso.Shop.EFTests.deps.json
+C:\dev\Contoso.Shop\Contoso.Shop.EFTests\bin\Debug\netcoreapp1.1\Contoso.Shop.EFTests.runtimeconfig.json
+C:\dev\Contoso.Shop\Contoso.Shop.EFTests\bin\Debug\netcoreapp1.1\Contoso.Shop.EFTests.runtimeconfig.dev.json
+C:\dev\Contoso.Shop\Contoso.Shop.EFTests\bin\Debug\netcoreapp1.1\Contoso.Shop.EFTests.dll
+C:\dev\Contoso.Shop\Contoso.Shop.EFTests\bin\Debug\netcoreapp1.1\Contoso.Shop.EFTests.pdb
+C:\dev\Contoso.Shop\Contoso.Shop.EFTests\obj\Debug\netcoreapp1.1\Contoso.Shop.EFTests.csprojResolveAssemblyReference.cache
+C:\dev\Contoso.Shop\Contoso.Shop.EFTests\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\dev\Contoso.Shop\Contoso.Shop.EFTests\obj\Debug\netcoreapp1.1\Contoso.Shop.EFTests.AssemblyInfo.cs
+C:\dev\Contoso.Shop\Contoso.Shop.EFTests\obj\Debug\netcoreapp1.1\Contoso.Shop.EFTests.dll
+C:\dev\Contoso.Shop\Contoso.Shop.EFTests\obj\Debug\netcoreapp1.1\Contoso.Shop.EFTests.pdb
