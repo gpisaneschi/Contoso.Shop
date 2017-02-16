@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26206.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contoso.Shop.Web", "Contoso.Shop.Web\Contoso.Shop.Web.csproj", "{D9CFD2A0-CCEA-4AC5-AE71-85A66646276A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contoso.Shop.Web", "Contoso.Shop.Web\Contoso.Shop.Web.csproj", "{D9CFD2A0-CCEA-4AC5-AE71-85A66646276A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contoso.Shop.EFTests", "Contoso.Shop.EFTests\Contoso.Shop.EFTests.csproj", "{F64A70DF-C133-481F-A0BB-1785313CD2FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contoso.Shop.EFTests", "Contoso.Shop.EFTests\Contoso.Shop.EFTests.csproj", "{F64A70DF-C133-481F-A0BB-1785313CD2FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

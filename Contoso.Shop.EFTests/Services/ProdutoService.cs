@@ -9,8 +9,9 @@ namespace Contoso.Shop.EFTests.Services
 {
     public interface IProdutoService
     {
-        List<Produto> ObterTodos();
+        List<Produto> ObterTodos(string termoPesquisa);
         Produto Criar(CriarProdutoDto dto);
+
     }
 
     public class ProdutoService : IProdutoService
@@ -22,9 +23,15 @@ namespace Contoso.Shop.EFTests.Services
             this.shopContext = shopContext;
         }
 
-        public List<Produto> ObterTodos()
+        public List<Produto> ObterTodos(string termoPesquisa)
         {
-            return shopContext.Produtos.ToList();
+            var query = shopContext.Produtos;
+            if (string.IsNullOrWhiteSpace(termoPesquisa))
+            {
+                return shopContext.Produtos.ToList();
+            }
+            return shopContext.Produtos.Where(x => x.Nome.Contains(termoPesquisa)).ToList();
+            //return shopContext.Produtos.ToList();
         }
 
         public Produto Criar(CriarProdutoDto dto)
@@ -41,5 +48,6 @@ namespace Contoso.Shop.EFTests.Services
 
             return produto;
         }
+
     }
 }
